@@ -1,0 +1,378 @@
+Headline,Category,Feature Name,Product Name,Non-Billable Product,Is Concession
+All-Inclusive Office,Other,Guarantor,Guarantor,1,0
+All-Inclusive Office,Core Deal,Subsidiaries,Estate Charge,0,0
+All-Inclusive Office,Core Deal,Deposit,Deposit (Retain),1,0
+All-Inclusive Office,Breaks,Customer Break,Customer Break Option,1,0
+All-Inclusive Office,Concessions,Half/Rent Free,Rent Free,0,1
+All-Inclusive Office,Concessions,Half/Rent Free,Half Rent,0,1
+All-Inclusive Office,Concessions,Stepped Rent,Stepped Rent,0,1
+All-Inclusive Office,Core Deal,Subsidiaries,Building Insurance,0,0
+All-Inclusive Office,Core Deal,Subsidiaries,Service Charge,0,0
+All-Inclusive Office,Car Parking,Car Parking Leased,Car Parking Leased,0,0
+All-Inclusive Office,Other,Electricity,Electricity AC,0,0
+All-Inclusive Office,Other,Electricity,Electricity No AC,0,0
+All-Inclusive Office,Other,Electricity,Electricity AC & Comms,0,0
+All-Inclusive Office,Other,Escalator,Escalator,0,0
+All-Inclusive Office,Other,Alterations,Dilapidations Liability,1,0
+All-Inclusive Retail,Other,Guarantor,Guarantor,1,0
+All-Inclusive Retail,Other,Contracted Out,Contracted Out,1,0
+All-Inclusive Retail,Other,Electricity,Electricity,1,0
+All-Inclusive Retail,Core Deal,Subsidiaries,Estate Charge,0,0
+All-Inclusive Retail,Core Deal,Deposit,Deposit (Retain),1,0
+All-Inclusive Retail,Breaks,Customer Break,Customer Break Option,1,0
+All-Inclusive Retail,Concessions,Half/Rent Free,Rent Free,0,1
+All-Inclusive Retail,Concessions,Half/Rent Free,Half Rent,0,1
+All-Inclusive Retail,Concessions,Stepped Rent,Stepped Rent,0,1
+All-Inclusive Retail,Core Deal,Subsidiaries,Building Insurance,0,0
+All-Inclusive Retail,Core Deal,Subsidiaries,Service Charge,0,0
+All-Inclusive Retail,Breaks,Supplier Break,Supplier Break Option,1,0
+All-Inclusive Retail,Other,Gas,Retail - Gas,1,0
+All-Inclusive Retail,Other,Water & Drainage,Retail - Water & Drainage,1,0
+All-Inclusive Retail,Core Deal,Use,Use,1,0
+All-Inclusive Retail,Other,Escalator,Escalator,0,0
+All-Inclusive Retail,Other,Alterations,Dilapidations Liability,1,0
+All-Inclusive SciTech,Other,Remeasure,Remeasure,1,0
+All-Inclusive SciTech,Other,Contents (Inventory),Contents (Inventory),1,0
+All-Inclusive SciTech,Fit Out,CAT B Fit-Out by Customer,CAT B Fit-Out by Customer,1,0
+All-Inclusive SciTech,Other,Guarantor,Guarantor,1,0
+All-Inclusive SciTech,Other,Contracted Out,Contracted Out,1,0
+All-Inclusive SciTech,Other,Schedule of Condition,Schedule of Condition,1,0
+All-Inclusive SciTech,Other,Air Conditioning,Air Conditioning,1,0
+All-Inclusive SciTech,Other,Optional Agreement,Pre-Emption/Option Agreement,1,0
+All-Inclusive SciTech,Core Deal,Subsidiaries,Estate Charge,0,0
+All-Inclusive SciTech,Core Deal,Deposit,Deposit (Retain),1,0
+All-Inclusive SciTech,Breaks,Customer Break,Customer Break Option,1,0
+All-Inclusive SciTech,Core Deal,Rent Review,Rent Review,1,0
+All-Inclusive SciTech,Concessions,Half/Rent Free,Rent Free,0,1
+All-Inclusive SciTech,Concessions,Half/Rent Free,Half Rent,0,1
+All-Inclusive SciTech,Concessions,Stepped Rent,Stepped Rent,0,1
+All-Inclusive SciTech,Core Deal,Subsidiaries,Building Insurance,0,0
+All-Inclusive SciTech,Car Parking,Car Parking Leased,Car Parking Leased,0,0
+All-Inclusive SciTech,Fit Out,CAT B Fit-Out by Supplier,CAT B Fit-Out by Supplier,1,0
+All-Inclusive SciTech,Breaks,Supplier Break,Supplier Break Option,1,0
+All-Inclusive SciTech,Fit Out,CAT A Refurbishment by Supplier,CAT A Refurbishment by Supplier,1,0
+All-Inclusive SciTech,Fit Out,CAT A Refurbishment by Customer,CAT A Refurbishment by Customer,0,0
+All-Inclusive SciTech,Concessions,Capex Contribution,Capex Contribution,0,1
+All-Inclusive SciTech,Core Deal,Reinstatement Fee,Reinstatement Fee,0,0
+All-Inclusive SciTech,Other,Alderley Park,AP Internet,0,0
+All-Inclusive SciTech,Core Deal,Utilities,Utilities,0,0
+All-Inclusive SciTech,Other,Alderley Park,AP Enterprise Zone,1,0
+All-Inclusive SciTech,Other,Alderley Park,Heat Load Calculations,1,0
+All-Inclusive SciTech,Other,AP Access,AP Tag Access,1,0
+All-Inclusive SciTech,Other,Alderley Park,Alienation,1,0
+All-Inclusive SciTech,Car Parking,Car Parking Business Rates,Car Parking Business Rates,0,0
+All-Inclusive SciTech,Core Deal,Local Exhaust Ventilation System - Recirculating TESTING Only,Recirculating TESTING Only,0,0
+All-Inclusive SciTech,Core Deal,Local Exhaust Ventilation System - Ducted TESTING Only,Ducted TESTING Only,0,0
+All-Inclusive SciTech,Core Deal,Subsidiaries,All-Inclusive Service Charge,0,0
+Car Parking Licence,,Car Parking Business Rates,Car Parking Business Rates,0,0
+Co-Working Dedicated,,Dedicated Desk Space,Dedicated Desk Space,1,0
+Co-Working Dedicated,,Stepped Rent,Stepped Rent,0,1
+Co-Working Dedicated,,Deposit,Deposit,1,0
+Co-Working Dedicated,,Customer Notice,Customer Notice,1,0
+Co-Working Dedicated,,Alderley Park,AP Tag Access,1,0
+Co-Working Dedicated OAL,,Dedicated Desk Space,Dedicated Desk Space,1,0
+Co-Working Dedicated OAL,,Stepped Rent,Stepped Rent,0,1
+Co-Working Dedicated OAL,,Deposit,Deposit,1,0
+Co-Working Dedicated OAL,,Customer Notice,Customer Notice,1,0
+Co-Working Dedicated OAL,,Alderley Park,AP Tag Access,1,0
+Co-Working Hot Desk,,Stepped Rent,Stepped Rent,0,1
+Co-Working Hot Desk,,Deposit,Deposit,1,0
+Co-Working Hot Desk,,Customer Notice,Customer Notice,1,0
+Co-Working Hot Desk,,Alderley Park,AP Tag Access,1,0
+Co-Working Shared Desk,,Stepped Rent,Stepped Rent,0,1
+Co-Working Shared Desk,,Deposit,Deposit,1,0
+Co-Working Shared Desk,,Customer Notice,Customer Notice,1,0
+Co-Working Shared Desk,,Access,AP Tag Access,1,0
+Co-Working Shared Desk,,Shared Desk Space,Shared Desk Space,1,0
+Co-Working Shared Desk,,Access,Unlimited Access,1,0
+Contracted Cleaning,Cleaning,Discount/Uplift,Discount/Uplift,0,0
+Contracted Cleaning,Cleaning,Cleaning,Cleaning,1,0
+Contracted Cleaning,Cleaning,Window Cleaner,Window Cleaning,0,0
+Contracted Cleaning,Cleaning,Cleaning,Supervised Cleaning,1,0
+Contracted Cleaning,Other,One Off Costs,Cleaning - Uniform,1,0
+Contracted Cleaning,Other,One Off Costs,Cleaning - Materials,1,0
+Contracted Cleaning,Other,One Off Costs,Cleaning - Training,1,0
+Contracted Cleaning,Other,One Off Costs,Cleaning - Mobilisation,1,0
+Contracted Cleaning,Other,One Off Costs,Cleaning - Machinery,1,0
+Contracted Cleaning,Other,One Off Costs,Cleaning - Management,1,0
+Contracted Cleaning,Other,One Off Costs,Cleaning - Other,1,0
+Data & Voice,Voice Products,Handsets,Handsets - Unlimited UK Calls Only,0,0
+Data & Voice,Data Products,Internet Speed,Dedicated Leased Line Internet - 20Mb,0,0
+Data & Voice,Data Products,Internet Speed,Dedicated Leased Line Internet - 10Mb,0,0
+Data & Voice,Data Products,Internet Speed,Dedicated Leased Line Internet - 50Mb,0,0
+Data & Voice,Data Products,Internet Speed,Dedicated Leased Line Internet - 100Mb,0,0
+Data & Voice,Data Products,IP Address,IP Address,0,0
+Data & Voice,Data Products,Internet Speed,Dedicated Leased Line Internet - 1Gb,0,0
+Data & Voice,Data Products,Internet Install Cost,Internet Install Cost,0,0
+Data & Voice,Voice Products,Switches,Switch - 12 Ports,0,0
+Data & Voice,Voice Products,Switches,Switch - 24 Ports,0,0
+Data & Voice,Voice Products,Switches,Switch - 48 Ports,0,0
+Data & Voice,Voice Products,Handsets,Premium Voice Licence,0,0
+Data & Voice,Voice Products,Interactive Voice Response,IVR,0,0
+Full Virtual,,Bolt-On Additional Services,Registered Address Bolt-On,0,0
+Full Virtual,,Deposit,Deposit,1,0
+Full Virtual,,Customer Notice,Customer Notice,1,0
+Laboratory,Other,Remeasure,Remeasure,1,0
+Laboratory,Other,Contents (Inventory),Contents (Inventory),1,0
+Laboratory,Fit Out,CAT B Fit-Out by Customer,CAT B Fit-Out by Customer,1,0
+Laboratory,Other,Guarantor,Guarantor,1,0
+Laboratory,Other,Contracted Out,Contracted Out,1,0
+Laboratory,Other,Schedule of Condition,Schedule of Condition,1,0
+Laboratory,Other,Air Conditioning,Air Conditioning,1,0
+Laboratory,Other,Optional Agreement,Pre-Emption/Option Agreement,1,0
+Laboratory,Concessions,Contribution to Customer's Legal Fees,Contribution to Customer's Legal Fees,0,1
+Laboratory,Other,Electricity,Electricity,1,0
+Laboratory,Core Deal,Subsidiaries,Estate Charge,0,0
+Laboratory,Core Deal,Deposit,Deposit (Retain),1,0
+Laboratory,Breaks,Customer Break,Customer Break Option,1,0
+Laboratory,Core Deal,Rent Review,Rent Review,1,0
+Laboratory,Core Deal,Service Charge Cap,Service Charge Cap,1,0
+Laboratory,Concessions,Half/Rent Free,Rent Free,0,1
+Laboratory,Concessions,Half/Rent Free,Half Rent,0,1
+Laboratory,Concessions,Stepped Rent,Stepped Rent,0,1
+Laboratory,Core Deal,Subsidiaries,Building Insurance,0,0
+Laboratory,Core Deal,Subsidiaries,Service Charge,0,0
+Laboratory,Car Parking,Car Parking Leased,Car Parking Leased,0,0
+Laboratory,Fit Out,CAT B Fit-Out by Supplier,CAT B Fit-Out by Supplier,1,0
+Laboratory,Breaks,Supplier Break,Supplier Break Option,1,0
+Laboratory,Fit Out,CAT A Refurbishment by Supplier,CAT A Refurbishment by Supplier,1,0
+Laboratory,Fit Out,CAT A Refurbishment by Customer,CAT A Refurbishment by Customer,0,0
+Laboratory,Concessions,Capex Contribution,Capex Contribution,0,1
+Laboratory,Other,Business Rates Relief,Business Rates Relief,1,0
+Laboratory,Core Deal,Subsidiaries,Utilities,0,0
+Laboratory,Other,Business Rates Relief,AP Enterprise Zone,1,0
+Laboratory,Other,Heat Load Calculations,Heat Load Calculations,1,0
+Laboratory,Other,AP Access,AP Tag Access,1,0
+Laboratory,Other,Assignment & Underletting,Alienation,1,0
+Laboratory,Car Parking,Car Parking Business Rates,Car Parking Business Rates,0,0
+Laboratory,Core Deal,Local Exhaust Ventilation System - Recirculating TESTING Only,Recirculating TESTING Only,0,0
+Laboratory,Core Deal,Local Exhaust Ventilation System - Ducted TESTING Only,Ducted TESTING Only,0,0
+Laboratory,Other,Alterations,Dilapidations Liability,1,0
+Laboratory LEV System,,Local Exhaust Ventilation System - Recirculating TESTING Only,Recirculating TESTING Only,0,0
+Laboratory LEV System,,Local Exhaust Ventilation System - Ducted TESTING Only,Ducted TESTING Only,0,0
+Laboratory LEV System,,Local Exhaust Ventilation System Hire Contract,Class II LEV 1200mm,0,0
+Laboratory LEV System,,Local Exhaust Ventilation System Hire Contract,Class II LEV 1800mm,0,0
+Made & Managed,,Remeasure,Remeasure,1,0
+Made & Managed,Fit Out & Furniture,Dilapidations,Dilapidation,0,0
+Made & Managed,,Guarantor,Guarantor,1,0
+Made & Managed,,Contracted Out,Contracted Out,1,0
+Made & Managed,Core Deal,Subsidiaries,Estate Charge,0,0
+Made & Managed,Core Deal,Deposit,Deposit (Retain),1,0
+Made & Managed,Breaks,Customer Break,Customer Break Option,1,0
+Made & Managed,Core Deal,Subsidiaries,Building Insurance,0,0
+Made & Managed,Core Deal,Subsidiaries,Service Charge,0,0
+Made & Managed,Breaks,Supplier Break,Supplier Break Option,1,0
+Made & Managed,Data/Voice,Handsets,Handset - Unlimited Calls,0,0
+Made & Managed,Data/Voice,Internet Speed,Dedicated Leased Line Internet - 100Mb,0,0
+Made & Managed,Data/Voice,IP Addresses,IP Address,0,0
+Made & Managed,,AP Access,AP Tag Access,1,0
+Made & Managed,,Assignment & Underletting,Alienation,1,0
+Made & Managed,Fit Out & Furniture,AV,Managed - AV,0,0
+Made & Managed,Fit Out & Furniture,Furniture,Managed - Furniture,1,0
+Made & Managed,Fit Out & Furniture,Fit Out - Additional Cost,Managed - Fit Out Additional Cost,0,0
+Made & Managed,Fit Out & Furniture,Furniture,Managed - Furniture Meeting Room Classic,0,0
+Made & Managed,Fit Out & Furniture,Furniture,Managed - Furniture Workstation Classic,0,0
+Made & Managed,Fit Out & Furniture,Furniture,Managed - Furniture Workstation Deluxe,0,0
+Made & Managed,Fit Out & Furniture,Furniture,Managed - Furniture Meeting Room Deluxe,0,0
+Made & Managed,Fit Out & Furniture,Fit Out,Managed - Design Fees Classic,0,0
+Made & Managed,Fit Out & Furniture,Fit Out,Managed - Design Fees Deluxe,0,0
+Made & Managed,Fit Out & Furniture,Fit Out,Managed - Design Fees Ultimate,0,0
+Made & Managed,Fit Out & Furniture,Furniture - Additional Cost,Managed - Furniture Additional Cost,0,0
+Made & Managed,Fit Out & Furniture,Fit Out,Managed - Design Fees Ultimate 20k+,0,0
+Made & Managed,Fit Out & Furniture,Fit Out,Managed - Design Fees Classic 20k+,0,0
+Made & Managed,Fit Out & Furniture,Fit Out,Managed - Design Fees Deluxe 20k+,0,0
+Made & Managed,Data/Voice,Internet Speed,Dedicated Leased Line Internet - 1Gb,0,0
+Made & Managed,Data/Voice,Backup Line,Backup Line 100Mb,0,0
+Made & Managed,Data/Voice,Backup Line,Backup Line 1Gb,0,0
+Made & Managed,Data/Voice,Internet - Additional Cost,Internet Install Cost,0,0
+Made & Managed,Data/Voice,Handsets,Managed - Phone set up Cost,0,0
+Made & Managed,Data/Voice,Handsets,Managed - Telephony fit out Cost,0,0
+Made & Managed,Additional Services,Cleaning,Managed - Lunch Time Kitchen Clean,0,0
+Made & Managed,Additional Services,Cleaning,Managed - Evening Clean,0,0
+Made & Managed,Additional Services,Coffee Machine,Managed - Mid-tier Coffee Machine,0,0
+Made & Managed,Additional Services,Refreshments,Managed - Coffee Machine Refreshments,0,0
+Made & Managed,Additional Services,Coffee Machine,Managed - Top-tier Coffee Machine,0,0
+Made & Managed,Additional Services,Coffee Machine,Managed - Standard Coffee Machine,0,0
+Made & Managed,Additional Services,Refreshments,Managed - Standard Refreshments,0,0
+Made & Managed,Fit Out & Furniture,AV,Managed - AV Maintenance,0,0
+Made & Managed,Fit Out & Furniture,Fit Out,Managed - Hot Water Tap Maintenance Deluxe,0,0
+Made & Managed,Fit Out & Furniture,Fit Out,Managed - FM,0,0
+Made & Managed,Fit Out & Furniture,Fit Out,Managed - Fit Out,1,0
+Made & Managed,Additional Services,Electricity,Electricity AC,0,0
+Made & Managed,Data/Voice,Internet - Additional Cost,Managed - Internet Additional Cost,0,0
+Made & Managed,Additional Services,Electricity,Electricity No AC,0,0
+Made & Managed,Additional Services,Electricity,Electricity AC & Comms,0,0
+Made & Managed,Additional Services,Highway & Surface Water Drainage,Managed - Highway & Surface Water Drainage,0,0
+Made & Managed,Data/Voice,Wi-Fi Set up,Managed - Wi-Fi Set-up,0,0
+Made & Managed,Fit Out & Furniture,Fit Out,Managed - Fit Out Traditional Classic,0,0
+Made & Managed,Fit Out & Furniture,Fit Out,Managed - Fit Out Traditional Deluxe,0,0
+Made & Managed,Fit Out & Furniture,Fit Out,Managed - Fit Out Traditional Ultimate,0,0
+Made & Managed,Fit Out & Furniture,Fit Out,Managed - Fit Out Agile Ultimate,0,0
+Made & Managed,Fit Out & Furniture,Fit Out,Managed - Fit Out Agile Deluxe,0,0
+Made & Managed,Fit Out & Furniture,Fit Out,Managed - Fit Out Agile Classic,0,0
+Made & Managed,Fit Out & Furniture,Fit Out,Managed - Air Conditioning Agile,0,0
+Made & Managed,Fit Out & Furniture,Fit Out,Managed - Air Conditioning Traditional,0,0
+Made & Managed,Additional Services,Business Rates,Managed - Business Rates,0,0
+Made & Managed,Fit Out & Furniture,Furniture,Managed - Furniture - Breakout Area Traditional Classic,0,0
+Made & Managed,Fit Out & Furniture,Furniture,Managed - Furniture - Breakout Area Agile Deluxe,0,0
+Made & Managed,Fit Out & Furniture,Furniture,Managed - Furniture - Breakout Area Traditional Deluxe,0,0
+Made & Managed,Fit Out & Furniture,Furniture,Managed - Furniture - Breakout Area Agile Classic,0,0
+Made & Managed,Fit Out & Furniture,Fit Out,Managed - Hot Water Tap Maintenance Ultimate,0,0
+Made & Managed,,Managed Escalator,Escalator,0,0
+Made & Managed,,Managed Cost of Capital,Managed - Cost of Capital,0,0
+Made & Managed,,Managed Escalator,Discount/Uplift,0,0
+Mail Only Virtual,,Bolt-On Additional Services,Registered Address Bolt-On,0,0
+Mail Only Virtual,,Bolt-On Additional Services,Call Forwarding Bolt-On,0,0
+Mail Only Virtual,,Deposit,Deposit,1,0
+Mail Only Virtual,,Customer Notice,Customer Notice,1,0
+Membership,,Stepped Rent,Stepped Rent,0,1
+Membership,,Deposit,Deposit,1,0
+Membership,,Customer Notice,Customer Notice,1,0
+Membership,,Alderley Park,AP Tag Access,1,0
+Membership,,Membership Space,Membership Space,1,0
+Office,Other,Remeasure,Remeasure,1,0
+Office,Other,Contents (Inventory),Contents (Inventory),1,0
+Office,Fit Out,CAT B Fit-Out by Customer,CAT B Fit-Out by Customer,1,0
+Office,Other,Guarantor,Guarantor,1,0
+Office,Other,Contracted Out,Contracted Out,1,0
+Office,Other,Schedule of Condition,Schedule of Condition,1,0
+Office,Other,Air Conditioning,Air Conditioning,1,0
+Office,Other,Optional Agreement,Pre-Emption/Option Agreement,1,0
+Office,Concessions,Contribution to Customer's Legal Fees,Contribution to Customer's Legal Fees,0,1
+Office,Other,Electricity,Electricity,1,0
+Office,Core Deal,Subsidiaries,Estate Charge,0,0
+Office,Core Deal,Deposit,Deposit (Retain),1,0
+Office,Breaks,Customer Break,Customer Break Option,1,0
+Office,Core Deal,Rent Review,Rent Review,1,0
+Office,Core Deal,Service Charge Cap,Service Charge Cap,1,0
+Office,Concessions,Half/Rent Free,Rent Free,0,1
+Office,Concessions,Half/Rent Free,Half Rent,0,1
+Office,Concessions,Stepped Rent,Stepped Rent,0,1
+Office,Core Deal,Subsidiaries,Building Insurance,0,0
+Office,Core Deal,Subsidiaries,Service Charge,0,0
+Office,Car Parking,Car Parking Leased,Car Parking Leased,0,0
+Office,Fit Out,CAT B Fit-Out by Supplier,CAT B Fit-Out by Supplier,1,0
+Office,Breaks,Supplier Break,Supplier Break Option,1,0
+Office,Fit Out,CAT A Refurbishment by Supplier,CAT A Refurbishment by Supplier,1,0
+Office,Fit Out,CAT A Refurbishment by Customer,CAT A Refurbishment by Customer,0,0
+Office,Concessions,Capex Contribution,Capex Contribution,0,1
+Office,Other,Business Rates Relief,Business Rates Relief,1,0
+Office,Core Deal,Subsidiaries,Utilities,0,0
+Office,Other,Business Rates Relief,AP Enterprise Zone,1,0
+Office,Other,AP Access,AP Tag Access,1,0
+Office,Other,Assignment & Underletting,Alienation,1,0
+Office,Car Parking,Car Parking Business Rates,Car Parking Business Rates,0,0
+Office,Other,Alterations,Dilapidations Liability,1,0
+Retail,Other,Remeasure,Remeasure,1,0
+Retail,Other,Agreement to Lease,Retail - Agreement to Lease,1,0
+Retail,Other,Contents (Inventory),Contents (Inventory),1,0
+Retail,Fit Out,CAT B Fit-Out by Customer,CAT B Fit-Out by Customer,1,0
+Retail,Other,Guarantor,Guarantor,1,0
+Retail,Other,Contracted Out,Contracted Out,1,0
+Retail,Other,Schedule of Condition,Schedule of Condition,1,0
+Retail,Other,Air Conditioning,Air Conditioning,1,0
+Retail,Other,Optional Agreement,Pre-Emption/Option Agreement,1,0
+Retail,Concessions,Contribution to Customer's Legal Fees,Contribution to Customer's Legal Fees,0,1
+Retail,Other,Electricity,Electricity,1,0
+Retail,Core Deal,Subsidiaries,Estate Charge,0,0
+Retail,Core Deal,Deposit,Deposit (Retain),1,0
+Retail,Breaks,Customer Break,Customer Break Option,1,0
+Retail,Core Deal,Rent Review,Rent Review,1,0
+Retail,Core Deal,Service Charge Cap,Service Charge Cap,1,0
+Retail,Concessions,Half/Rent Free,Rent Free,0,1
+Retail,Concessions,Half/Rent Free,Half Rent,0,1
+Retail,Concessions,Stepped Rent,Stepped Rent,0,1
+Retail,Core Deal,Subsidiaries,Building Insurance,0,0
+Retail,Core Deal,Subsidiaries,Service Charge,0,0
+Retail,Car Parking,Car Parking Leased,Car Parking Leased,0,0
+Retail,Fit Out,CAT B Fit-Out by Supplier,CAT B Fit-Out by Supplier,1,0
+Retail,Breaks,Supplier Break,Supplier Break Option,1,0
+Retail,Fit Out,CAT A Refurbishment by Supplier,CAT A Refurbishment by Supplier,1,0
+Retail,Fit Out,CAT A Refurbishment by Customer,CAT A Refurbishment by Customer,0,0
+Retail,Concessions,Capex Contribution,Capex Contribution,0,1
+Retail,Other,Business Rates Relief,Business Rates Relief,1,0
+Retail,Other,Conditions,Conditions - Licensing by Supplier,1,0
+Retail,Other,Signage,Signage,1,0
+Retail,Core Deal,Turnover Rent,Retail - Rent or Turnover,0,0
+Retail,Other,Conditions,Conditions - Planning,1,0
+Retail,Other,Conditions,Conditions - Licensing by Customer,1,0
+Retail,Other,Conditions,Conditions - Supplier Works,1,0
+Retail,Core Deal,Subsidiaries,Retail - Promotional Charge,0,0
+Retail,Other,Gas,Retail - Gas,1,0
+Retail,Other,Water & Drainage,Retail - Water & Drainage,1,0
+Retail,Core Deal,Use,Use,1,0
+Retail,Core Deal,Use,Prohibit Drinking Establishment,1,0
+Retail,Core Deal,Use,Prohibit Live Or Recorded Music,1,0
+Retail,Core Deal,Use,Prohibit Display Of Flashing Lights,1,0
+Retail,Other,Business Rates Relief,AP Enterprise Zone,1,0
+Retail,Other,Assignment & Underletting,Alienation,1,0
+Retail,Car Parking,Car Parking Business Rates,Car Parking Business Rates,0,0
+Retail,Core Deal,Turnover Cap,Retail - Turnover Cap,1,0
+Retail,Core Deal,Turnover Only,Retail - Turnover Only,0,0
+Retail,Other,Alterations,Dilapidations Liability,1,0
+Serendip,,Stepped Rent,Stepped Rent,0,1
+Serendip,,Deposit,Deposit,1,0
+Serendip,,Customer Notice,Customer Notice,1,0
+Serendip,,Access,Unlimited Access,1,0
+Serendip,,Serendip Space,Serendip Space,1,0
+Serviced,Car Parking,Car Parking Licence,Car Parking Licence - Serviced,0,0
+Serviced,Data/Voice,Handsets,Handsets - Unlimited UK Calls Only,0,0
+Serviced,Schedules,SCHEDULE 2 - ADDITIONAL SERVICES,Call Handling Bolt-On,0,0
+Serviced,Schedules,SCHEDULE 1 - FACILITIES AND SERVICES,Call Handling Bolt-On,0,0
+Serviced,Schedules,SCHEDULE 2 - ADDITIONAL SERVICES,Company Name on Sign Board Bolt-On,0,0
+Serviced,Concessions,Stepped Rent,Stepped Rent,0,1
+Serviced,Other,CAT B Fit-Out by Supplier,CAT B Fit-Out by Supplier,1,0
+Serviced,Core Deal,Deposit,Deposit,1,0
+Serviced,Core Deal,Customer Notice,Customer Notice,1,0
+Serviced,Data/Voice,Internet,Dedicated Leased Line Internet - 2Mb,0,0
+Serviced,Data/Voice,Internet,Inclusive Contended Internet,1,0
+Serviced,Data/Voice,Internet Corkage Fee,Internet Corkage Fee,0,0
+Serviced,Data/Voice,Handsets,Handset - Unlimited Calls,0,0
+Serviced,Core Deal,Additional Desks,Additional Desks,0,0
+Serviced,Other,Other,Supplier 24 Hour Notice,1,0
+Serviced,Other,Meeting Room Usage,Meeting Room Usage,0,0
+Serviced,Schedules,SCHEDULE 1 - FACILITIES AND SERVICES,Use of Building as Registered Address,1,0
+Serviced,Other,Other,Wear and Tear,1,0
+Serviced,Other,Fixed Dilapidation Cost,Fixed Dilapidation Cost,0,0
+Serviced,Data/Voice,Internet,Dedicated Leased Line Internet - 20Mb,0,0
+Serviced,Data/Voice,Internet,Dedicated Leased Line Internet - 5Mb,0,0
+Serviced,Data/Voice,Internet,Dedicated Leased Line Internet - 10Mb,0,0
+Serviced,Data/Voice,Internet,Dedicated Leased Line Internet - 50Mb,0,0
+Serviced,Data/Voice,Internet,Dedicated Leased Line Internet - 100Mb,0,0
+Serviced,Data/Voice,IP Address,IP Address,0,0
+Serviced,Data/Voice,Internet,Dedicated Leased Line Internet - 1Gb,0,0
+Serviced,Data/Voice,Internet,Dedicated Leased Line Internet - 30Mb,0,0
+Serviced,Car Parking,Car Parking Business Rates,Car Parking Business Rates,0,0
+Serviced Retail,,Deposit,Deposit,1,0
+Serviced Retail,,Turnover Rent,Retail - Rent or Turnover,0,0
+Serviced Retail,,Use,Use,1,0
+Serviced Retail,,Turnover Rent,Retail - Turnover Only,0,0
+Serviced Retail,,Pop-up shop,Pop-up shop,1,0
+Storage,Other,Remeasure,Remeasure,1,0
+Storage,Other,Contents (Inventory),Contents (Inventory),1,0
+Storage,Other,Guarantor,Guarantor,1,0
+Storage,Other,Contracted Out,Contracted Out,1,0
+Storage,Other,Schedule of Condition,Schedule of Condition,1,0
+Storage,Other,Air Conditioning,Air Conditioning,1,0
+Storage,Other,Optional Agreement,Pre-Emption/Option Agreement,1,0
+Storage,Concessions,Contribution to Customer's Legal Fees,Contribution to Customer's Legal Fees,0,1
+Storage,Other,Electricity,Electricity,1,0
+Storage,Core Deal,Subsidiaries,Estate Charge,0,0
+Storage,Core Deal,Deposit,Deposit (Retain),1,0
+Storage,Breaks,Customer Break,Customer Break Option,1,0
+Storage,Core Deal,Rent Review,Rent Review,1,0
+Storage,Core Deal,Service Charge Cap,Service Charge Cap,1,0
+Storage,Concessions,Half/Rent Free,Rent Free,0,1
+Storage,Concessions,Half/Rent Free,Half Rent,0,1
+Storage,Concessions,Stepped Rent,Stepped Rent,0,1
+Storage,Core Deal,Subsidiaries,Building Insurance,0,0
+Storage,Core Deal,Subsidiaries,Service Charge,0,0
+Storage,Breaks,Supplier Break,Supplier Break Option,1,0
+Storage,Concessions,Capex Contribution,Capex Contribution,0,1
+Storage,Other,Assignment & Underletting,Alienation,1,0
+Storage,Other,Alterations,Dilapidations Liability,1,0
+Tenancy at Will,Other,Electricity,Electricity,1,0
+Tenancy at Will,,Subsidiaries,Building Insurance,0,0
+Tenancy at Will,,Subsidiaries,Service Charge,0,0
+Tenancy at Will,,Car Parking Leased,Car Parking Leased,0,0
+Tenancy at Will,,Permitted Use,Use,1,0
